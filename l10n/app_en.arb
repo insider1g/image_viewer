@@ -1,0 +1,12 @@
+{
+    "imagesNotFound": "Could not found any images",
+    "networkError": "Please check your network connection",
+    "authError": "Could not authorize on server side. Is your API key correct?",
+    "tags": "tags: {tags}",
+    "@tags": {
+        "description": "Tags related to the photo",
+        "placeholders": {
+            "tags": {}
+        }
+    }
+}
